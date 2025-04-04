@@ -1,0 +1,588 @@
+{
+    "data": [
+        {
+            "input": "hi",
+            "intent": "default"
+        },
+        {
+            "input": "helo",
+            "intent": "default"
+        },
+        {
+            "input": "hello",
+            "intent": "default"
+        },
+        {
+            "input": "what are you doing",
+            "intent": "default"
+        },
+        {
+            "input": "bye",
+            "intent": "default"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "hello",
+            "intent": "greeting"
+        },
+        {
+            "input": "mame",
+            "intent": "default"
+        },
+        {
+            "input": "okay",
+            "intent": "well_being"
+        },
+        {
+            "input": "tell me about urself",
+            "intent": "request_info"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "thyroid",
+            "intent": "default"
+        },
+        {
+            "input": "headache",
+            "intent": "default"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "thyroid",
+            "intent": "default"
+        },
+        {
+            "input": "fever",
+            "intent": "Fever"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "bye",
+            "intent": "farewell"
+        },
+        {
+            "input": "fever",
+            "intent": "Fever"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "good",
+            "intent": "well_being"
+        },
+        {
+            "input": "fever",
+            "intent": "default"
+        },
+        {
+            "input": "fever",
+            "intent": "default"
+        },
+        {
+            "input": "fever",
+            "intent": "Fever"
+        },
+        {
+            "input": "fever",
+            "intent": "Fever"
+        },
+        {
+            "input": "fever",
+            "intent": "Fever"
+        },
+        {
+            "input": "fever",
+            "intent": "Fever"
+        },
+        {
+            "input": "fever",
+            "intent": "Fever"
+        },
+        {
+            "input": "fever",
+            "intent": "Fever"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "first aid for fever",
+            "intent": "Fever"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "wellbeing",
+            "intent": "default"
+        },
+        {
+            "input": "sorry",
+            "intent": "default"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "fever",
+            "intent": "Fever"
+        },
+        {
+            "input": "not well",
+            "intent": "well_being"
+        },
+        {
+            "input": "what is your name",
+            "intent": "ask_name"
+        },
+        {
+            "input": "fever",
+            "intent": "Fever"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "chemical burns",
+            "intent": "default"
+        },
+        {
+            "input": "chemical burns",
+            "intent": "default"
+        },
+        {
+            "input": "chemicalburns",
+            "intent": "default"
+        },
+        {
+            "input": "chemical",
+            "intent": "default"
+        },
+        {
+            "input": "chemical",
+            "intent": "default"
+        },
+        {
+            "input": "chemical",
+            "intent": "chemical"
+        },
+        {
+            "input": "chemical burns",
+            "intent": "chemical_burns"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "chemical burns",
+            "intent": "chemical_burns"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "knee pain",
+            "intent": "knee_dislocation"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "drowing",
+            "intent": null
+        },
+        {
+            "input": "knee pain",
+            "intent": "knee_dislocation"
+        },
+        {
+            "input": "head ache",
+            "intent": "head_injury"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "stomach",
+            "intent": null
+        },
+        {
+            "input": "knee pain",
+            "intent": "knee_dislocation"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "stomach pain",
+            "intent": null
+        },
+        {
+            "input": "high fever",
+            "intent": "high_fever"
+        },
+        {
+            "input": "eye injury",
+            "intent": "eye_injury"
+        },
+        {
+            "input": "allergy",
+            "intent": null
+        },
+        {
+            "input": "allergic",
+            "intent": "allergic_reactions"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "",
+            "intent": null
+        },
+        {
+            "input": "thyroid",
+            "intent": "thyroid_emergencies"
+        },
+        {
+            "input": "bleeding",
+            "intent": null
+        },
+        {
+            "input": "bleeding(severe)",
+            "intent": null
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "shock",
+            "intent": "shock"
+        },
+        {
+            "input": "spider bite",
+            "intent": "spider_bite"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "chemical burns",
+            "intent": "chemical_burns"
+        },
+        {
+            "input": "throt injury",
+            "intent": null
+        },
+        {
+            "input": "throat injury",
+            "intent": "throat_injury"
+        },
+        {
+            "input": "eye injury",
+            "intent": "eye_injury"
+        },
+        {
+            "input": "hypoglycemia",
+            "intent": "hypoglycemia"
+        },
+        {
+            "input": "hyperglycemia",
+            "intent": "hyperglycemia"
+        },
+        {
+            "input": "drug dose",
+            "intent": "drug_overdose"
+        },
+        {
+            "input": "nose injury",
+            "intent": "nose_injury"
+        },
+        {
+            "input": "rib injury",
+            "intent": "rib_injury"
+        },
+        {
+            "input": "pelvic injury",
+            "intent": "pelvic_injury"
+        },
+        {
+            "input": "hip dislocation",
+            "intent": "hip_dislocation"
+        },
+        {
+            "input": "shoulder dislocation",
+            "intent": "shoulder_dislocation"
+        },
+        {
+            "input": "knee dislocation",
+            "intent": "knee_dislocation"
+        },
+        {
+            "input": "finger dislocation",
+            "intent": "finger_dislocation"
+        },
+        {
+            "input": "trn ligament",
+            "intent": null
+        },
+        {
+            "input": "alcohol poisoning",
+            "intent": "alcohol_poisoning"
+        },
+        {
+            "input": "chest pain",
+            "intent": "chest_pain"
+        },
+        {
+            "input": "dental emergencies",
+            "intent": "dental_emergencies"
+        },
+        {
+            "input": "ear injury",
+            "intent": "ear_injury"
+        },
+        {
+            "input": "insect sting",
+            "intent": "insect_stings"
+        },
+        {
+            "input": "insect stings",
+            "intent": "insect_stings"
+        },
+        {
+            "input": "spider bite",
+            "intent": "spider_bite"
+        },
+        {
+            "input": "scorpion sting",
+            "intent": "scorpion_sting"
+        },
+        {
+            "input": "jellyfish sting",
+            "intent": "jellyfish_sting"
+        },
+        {
+            "input": "tick bite",
+            "intent": "tick_bite"
+        },
+        {
+            "input": "human bite",
+            "intent": "human_bite"
+        },
+        {
+            "input": "foreign object in the eye",
+            "intent": "foreign_object_in_the_eye"
+        },
+        {
+            "input": "insect stings",
+            "intent": "insect_stings"
+        },
+        {
+            "input": "insect stings",
+            "intent": "insect_stings"
+        },
+        {
+            "input": "bye",
+            "intent": "farewell"
+        },
+        {
+            "input": "hi",
+            "intent": "greeting"
+        },
+        {
+            "input": "insect stings",
+            "intent": "insect_stings"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "cancer",
+            "intent": null
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "heart attack",
+            "intent": "heart_palpitations"
+        },
+        {
+            "input": "insert stings",
+            "intent": null
+        },
+        {
+            "input": "insect stings",
+            "intent": "insect_stings"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "fever\r\n",
+            "intent": "fever"
+        },
+        {
+            "input": "fever\r\n",
+            "intent": "fever"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "",
+            "intent": null
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        },
+        {
+            "input": "fever\r\n",
+            "intent": "fever"
+        },
+        {
+            "input": "blood",
+            "intent": "blood_clot"
+        },
+        {
+            "input": "human bite\r\n",
+            "intent": "human_bite"
+        },
+        {
+            "input": "fever\r\n",
+            "intent": "fever"
+        },
+        {
+            "input": "finger cut",
+            "intent": "finger_dislocation"
+        },
+        {
+            "input": "fever\r\n",
+            "intent": "fever"
+        },
+        {
+            "input": "finger cut",
+            "intent": "finger_dislocation"
+        },
+        {
+            "input": "diarrhea\r\n",
+            "intent": null
+        },
+        {
+            "input": "human bite\r\n",
+            "intent": "human_bite"
+        },
+        {
+            "input": "Severe Blood Loss",
+            "intent": "blood_clot"
+        },
+        {
+            "input": "blood loss",
+            "intent": "blood_clot"
+        },
+        {
+            "input": "Finger cut",
+            "intent": "finger_dislocation"
+        },
+        {
+            "input": "headache",
+            "intent": null
+        },
+        {
+            "input": "vomit",
+            "intent": null
+        },
+        {
+            "input": "fever",
+            "intent": "fever"
+        }
+    ]
+}

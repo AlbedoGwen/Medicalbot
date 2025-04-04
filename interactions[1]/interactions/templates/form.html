@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Bot - Ask a Question</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f7f0e8;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: 'Arial', sans-serif;
+        }
+        .card {
+            width: 100%;
+            max-width: 500px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            padding: 35px;
+            background: linear-gradient(135deg, #a6c0fe, #f68084);
+            color: #333;
+        }
+        .header-text {
+            font-weight: bold;
+            font-size: 28px;
+            color: #333;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .form-label {
+            color: #555;
+            font-weight: 500;
+        }
+        .form-control {
+            border: 2px solid #c9d6ff;
+            border-radius: 10px;
+        }
+        .btn-submit {
+            background: linear-gradient(135deg, #ff7e5f, #feb47b);
+            border: none;
+            color: #fff;
+            font-weight: bold;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .btn-submit:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 20px rgba(255, 65, 108, 0.4);
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1 class="header-text">Medical Bot Chat</h1>
+        <p class="text-center" style="color: #555;">Ask a question below and receive a quick response!</p>
+        <form method="POST" action="/">
+            <div class="form-group mb-4">
+                <label for="text_input" class="form-label">Enter Your Query:</label>
+                <textarea id="text_input" name="text_input" rows="5" class="form-control" placeholder="Type your question here..."></textarea>
+            </div>
+            <div class="d-grid">
+                <button type="submit" class="btn btn-submit btn-lg">Submit Query</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
